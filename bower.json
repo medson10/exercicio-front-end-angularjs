@@ -1,0 +1,22 @@
+{
+  "name": "exercicio-front-end-angularjs",
+  "homepage": "https://github.com/medson10/exercicio-front-end-angularjs",
+  "authors": [
+    "medson10 <medson.oliveira@fatec.sp.gov.br>"
+  ],
+  "description": "Dashboard built with Angular.js",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.1",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
+  }
+}

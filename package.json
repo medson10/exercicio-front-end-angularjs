@@ -1,0 +1,19 @@
+{
+  "name": "exercicio-front-end-angularjs",
+  "version": "1.0.0",
+  "description": "A dashboard built with angular.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medson10/exercicio-front-end-angularjs.git"
+  },
+  "author": "medson10 <medson.oliveira@fatec.sp.gov.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medson10/exercicio-front-end-angularjs/issues"
+  },
+  "homepage": "https://github.com/medson10/exercicio-front-end-angularjs#readme"
+}
